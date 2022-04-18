@@ -1,9 +1,21 @@
-# Fabric Example Mod
+# Autocrafter
 
-## Setup
+This mod adds Automatic Crafting Table.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Why
+
+I want to learn how to do mods and I thought that doing this is a perfect idea.
+
+## FAQ
+
+> \- Can I use this mod in my modpack?
+> 
+> \- Yea sure, go ahead.
+
+> \- Is it balanced?
+> 
+> \- I suppose that using **three** netherite ingots will make this thing balanced.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This product of perfectionist's code is licensed under MIT License.

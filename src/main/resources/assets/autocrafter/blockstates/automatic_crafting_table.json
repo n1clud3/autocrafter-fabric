@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "autocrafter:block/automatic_crafting_table"
+    }
+  }
+}

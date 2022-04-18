@@ -1,38 +1,32 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "autocrafter",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Autocrafter",
+  "description": "This mod adds Automatic Crafting Table",
   "authors": [
-    "Me!"
+    "n1clud3"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://n1clud3.github.io/autocrafter.html",
+    "sources": "https://github.com/n1clud3/autocrafter-fabric"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/autocrafter/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "me.niclude.autocrafter.Autocrafter"
     ]
   },
-  "mixins": [
-    "modid.mixins.json"
-  ],
 
   "depends": {
     "fabricloader": ">=0.13.3",
     "fabric": "*",
     "minecraft": "1.18.x",
     "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
   }
 }
